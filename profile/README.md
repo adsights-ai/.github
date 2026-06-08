@@ -161,7 +161,7 @@ Stay updated with the latest in creative analytics and advertising:
 - **HuggingFace**: [AdSights](https://huggingface.co/AdSights)
 - **Pinterest**: [adsightsai](https://pinterest.com/adsightsai/)
 - **Trustpilot**: [Reviews](https://www.trustpilot.com/review/adsights.ai)
-- **Product Hunt**: [AdSights Free Design Tools](https://www.producthunt.com/products/adsights-free-design-tools)
+- **Product Hunt**: [AdSights Free Design Tools](https://www.producthunt.com/products/adsights-free-design-tools) • [AdSights Ads Framework](https://www.producthunt.com/products/adsights-ads-framework)
 
 ## 🎓 For Developers
 
